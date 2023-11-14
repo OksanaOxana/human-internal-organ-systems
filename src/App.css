@@ -2,7 +2,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  height: 100vh;
+ /* height: 100vh;*/
   align-items: center;
   background: linear-gradient(to top, #B9E5F3, #51A2D9) ;
 }
@@ -15,7 +15,20 @@
 
 }
 
-button {
+.containerTwo {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.containerTwoSmall {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.twoButton {
   border-radius: 0px;
   background: #8A140E;
   box-shadow: inset -22px -22px 44px #570d09,
@@ -25,6 +38,23 @@ button {
   border: none;
   text-transform: uppercase;
   margin: 5px;
+}
+
+.btn {
+  border: none;
+  background: #B9E5F3;
+  color:#51A2D9;
+  font-style: italic;
+  font-size: 16px;
+}
+
+.btnSmall {
+  color: #fff;
+  padding: 5px;
+  border: none;
+  text-transform: uppercase;
+  margin: 5px;
+  background: #347997;
 }
 
 img {
@@ -48,6 +78,12 @@ h1 {
 h3 {
   color: #E0E8F0;;
   font-size: 30px;
+  font-weight: bold;
+}
+
+h2 {
+  color: #E0E8F0;;
+  font-size: 20px;
   font-weight: bold;
 }
 

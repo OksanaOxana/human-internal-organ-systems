@@ -1,13 +1,20 @@
 import { useState } from 'react';
 import './App.css';
 import { data } from './data';
+import MakeTasks from './makeTasks';
+
+
+
 
 function App() {
-
+ 
   const [systems, setSystems] = useState(0);
+  
+  const {name, image, description, } = data[systems];
 
-  const {name, image, description} = data[systems];
-
+  /*const [showText, setShowText] = useState(false)*/
+ 
+  
   const previousSystem = () => {
     setSystems ((systems => {
       systems --;
@@ -27,9 +34,15 @@ function App() {
       return systems
     }))
   }
-   
+
+
+   const [showMore, setShowMore] = useState(false);
+
+  
+
   return (
-    <div className='mainContainer'>
+  <div className='mainContainer'>
+    
       <div className="container">
         <h1>Human organ systems</h1>
       </div>
@@ -43,15 +56,22 @@ function App() {
       </div>
 
       <div className="container">
-        <p>{description}</p>
+        <p>{showMore? description : description.substring(0,30)+"..."}<button className='btn'  onClick={() => setShowMore(!showMore)} >{showMore ? "less information" : "more information"}</button></p>
       </div>
 
-      <div className="container btn">
-        <button onClick={previousSystem} >prev</button>
-        <button onClick={nextSystem} >next</button>
+      <div className="container">
+        <button className='twoButton' onClick={previousSystem} >prev</button>
+        <button className='twoButton' onClick={nextSystem} >next</button>
       </div>
+<div>
+   <MakeTasks />
+</div>
     </div>
-  );
+
+
+ );
+
 }
+
 
 export default App;
