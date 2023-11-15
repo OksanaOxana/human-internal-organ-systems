@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+<!-- PROJECT LOGO -->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Title
 
-## Available Scripts
+ <h3 align="center">My portfolio</h3>
+<div align="center">
+  <a href=["https://github.com/OksanaOxana/human-internal-organ-systems/blob/main/photo_2023-08-19_13-54-31.jpg](https://github.com/OksanaOxana/human-internal-organ-systems)">
+    <img src="photo_2023-11-11_18-46-22.jpg" alt="Logo" width="80" height="100">
+  </a>
+</div> 
 
-In the project directory, you can run:
+### Built With
 
-### `npm start`
+* HTML/CSS
+* JavaScript
+* React
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<!-- ABOUT THE PROJECT -->
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### About The Project
 
-### `npm test`
+ This project will help the employer get an idea of ​​me as an employee.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+Every developer, when looking for a job, must have a project to demonstrate to the employer. That's why I created this project. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+I'm Oksana. I am a front-end developer from Belarus. I have learned HTML/CSS, Bootstrap, JavaScript, Python, Figma, Gsap, Git. 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+And now I’m looking for a job where I can put my skills into practice, where I can become part of a team and benefit the company.
 
-### `npm run eject`
+I try to learn something new every day and now I am learning React.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+I created this project to show what a complex structure we have and how important it is to have an understanding of it in order to maintain our health at the proper level.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+I used a functional component - the useState hook. I used the map() method, also used the filter() method, with its help I showed organ systems that you can still read about. And the subString() method to partially show the information.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Use the `BLANK_README.md` to get started.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<!-- GETTING STARTED -->
+## Getting Started
 
-## Learn More
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Installation
 
-### Code Splitting
+_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+1. Clone the repo at [https://github.com/OksanaOxana/human-internal-organ-systems](https://github.com/OksanaOxana/human-internal-organ-systems)
+2. In the terminal you need to paste the copied link to the project
+3. Next, enter the cloned folder and open the code
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<!-- CONTACT -->
+## Contact
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+If you have any comments on my project, here are my contacts:
 
-### Advanced Configuration
+[Whatsapp](https://wa.me/+375299779119)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+[Telegram](https://t.me/OxanaAksana)
 
-### Deployment
+[oxi_butylova@mail.ru](https://oxi_butylova@mail.ru)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Project Link: [https://github.com/OksanaOxana/human-internal-organ-systems](https://github.com/OksanaOxana/human-internal-organ-systems)
