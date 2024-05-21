@@ -19,18 +19,6 @@
 
 ### About The Project
 
- This project will help the employer get an idea of ​​me as an employee.
-
-
-Every developer, when looking for a job, must have a project to demonstrate to the employer. That's why I created this project. 
-
-
-I'm Oksana. I am a front-end developer from Belarus. I have learned HTML/CSS, Bootstrap, JavaScript, Python, Figma, Gsap, Git. 
-
-And now I’m looking for a job where I can put my skills into practice, where I can become part of a team and benefit the company.
-
-I try to learn something new every day and now I am learning React.
-
 I created this project to show what a complex structure we have and how important it is to have an understanding of it in order to maintain our health at the proper level.
 
 I used a functional component - the useState hook. I used the map() method, also used the filter() method, with its help I showed organ systems that you can still read about. And the subString() method to partially show the information.
