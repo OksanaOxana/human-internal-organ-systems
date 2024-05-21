@@ -2,7 +2,7 @@
 
 ## Project Title
 
- <h3 align="center">My portfolio</h3>
+ <h3 align="center">Human organ system</h3>
 <div align="center">
   <a href=["https://github.com/OksanaOxana/human-internal-organ-systems/blob/main/photo_2023-08-19_13-54-31.jpg](https://github.com/OksanaOxana/human-internal-organ-systems)">
     <img src="photo_2023-11-11_18-46-22.jpg" alt="Logo" width="80" height="100">
